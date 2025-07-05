@@ -61,7 +61,21 @@ A user-friendly web app for predicting if a red wine sample meets premium qualit
 ## 🌐 Online Demo
 
 Try the app live here:  
-[[https://your-app-url.streamlit.app]([https://your-app-url.streamlit.app](https://wine-quality-predictor-mumf5ydcmxjrzauseqptny.streamlit.app/)](https://wine-quality-predictor-mumf5ydcmxjrzauseqptny.streamlit.app/))
+[https://wine-quality-predictor-mumf5ydcmxjrzauseqptny.streamlit.app/](https://wine-quality-predictor-mumf5ydcmxjrzauseqptny.streamlit.app/)
+
+---
+
+## 📂 Project Structure
+
+```plaintext
+wine-quality-predictor/
+├── app.py
+├── wine_model.pkl
+├── feature_names.pkl
+├── requirements.txt
+├── Screenshot 2025-07-05 at 8.41.07 PM.png
+├── README.md
+└── venv/                # (optional, not included in repo)
 
 ---
 
@@ -97,3 +111,4 @@ Try these values to see a "Good Quality" prediction:
 This project is for educational and demonstration purposes.
 
 ---
+```
