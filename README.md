@@ -65,20 +65,6 @@ Try the app live here:
 
 ---
 
-## 📂 Project Structure
-
-```plaintext
-wine-quality-predictor/
-├── app.py
-├── wine_model.pkl
-├── feature_names.pkl
-├── requirements.txt
-├── Screenshot 2025-07-05 at 8.41.07 PM.png
-├── README.md
-└── venv/                # (optional, not included in repo)
-
----
-
 ## ⚗️ Chemical Attribute Example for "Good Quality" Wine
 
 Try these values to see a "Good Quality" prediction:
