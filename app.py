@@ -64,7 +64,7 @@ st.markdown(
     """
     <div style='text-align:center; font-size:0.9em; color:gray;'>
     Created by Paul Tristan Dujali. Powered by Streamlit.<br>
-    <a href="https://github.com/hirocenzo/sms-spam-detector" target="_blank">View on GitHub</a>
+    <a href="https://github.com/hirocenzo/wine-quality-predictor" target="_blank">View on GitHub</a>
     </div>
     """,
     unsafe_allow_html=True
